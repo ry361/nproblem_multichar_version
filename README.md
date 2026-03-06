@@ -1,1 +1,0 @@
-# nproblem_multichar_version
