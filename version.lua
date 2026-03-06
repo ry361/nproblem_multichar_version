@@ -4,7 +4,7 @@ return {
             version = "1.1.0",
             releaseDate = "2026-03-06",
             critical = true,
-            download = "https://nproblem.tebex.io/package/xxxx",
+            download = "https://portal.cfx.re/assets/granted-assets",
             changelog = {
                 { text = "Kartvizit sistemi eklendi",   link = "https://nproblem.tebex.io/package/xxxx" },
                 { text = "Animasyonlar düzenlendi",     link = nil },
@@ -23,7 +23,7 @@ return {
             version = "1.1.0",
             releaseDate = "2026-03-06",
             critical = false,
-            download = "https://nproblem.tebex.io/package/xxxx",
+            download = "https://portal.cfx.re/assets/granted-assets",
             changelog = {
                 { text = "QB inventory desteği eklendi", link = "https://nproblem.tebex.io/package/xxxx" },
                 { text = "Metadata sistemi eklendi",     link = nil },
