@@ -1,7 +1,7 @@
 return {
     esx = {
         multicharacter = {
-            version = "1.1.1",
+            version = "1.0.1",
             releaseDate = "2026-03-18",
             critical = true,
             download = "https://portal.cfx.re/assets/granted-assets",
