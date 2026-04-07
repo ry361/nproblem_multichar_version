@@ -1,12 +1,12 @@
 return {
     esx = {
         multicharacter = {
-            version = "1.0.2",
-            releaseDate = "2026-03-24",
+            version = "1.0.3",
+            releaseDate = "2026-04-07",
             critical = true,
             download = "https://portal.cfx.re/assets/granted-assets",
             changelog = {
-                { text = "Fixed an issue where player data was not saved correctly when quitting the game", link = nil },
+                { text = "Fixed a critical bug where character deletion caused data corruption", link = nil },
             },
             missingFeatures = {},
             removed = {}
