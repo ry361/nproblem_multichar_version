@@ -1,12 +1,12 @@
 return {
     esx = {
         multicharacter = {
-            version = "1.0.3",
-            releaseDate = "2026-04-07",
-            critical = true,
+            version = "1.0.4",
+            releaseDate = "2026-04-17",
+            critical = false,
             download = "https://portal.cfx.re/assets/granted-assets",
             changelog = {
-                { text = "Fixed a critical bug where character deletion caused data corruption", link = nil },
+                { text = "Fixed an issue where SetEntityRoutingBucket was not functioning correctly", link = nil },
             },
             missingFeatures = {},
             removed = {}
