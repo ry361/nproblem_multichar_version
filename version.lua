@@ -19,7 +19,7 @@ return {
             critical = false,
             download = "https://portal.cfx.re/assets/granted-assets",
             changelog = {
-                { text = ""Added relog option.", link = nil },
+                { text = "Added relog option.", link = nil },
             },
             missingFeatures = {},
             removed = {}
